@@ -1,0 +1,8 @@
+.env
+/.phpunit
+/.phpunit.result.cache
+/composer.lock
+/phpunit.xml
+/vendor/
+/public/bundles/
+.idea
