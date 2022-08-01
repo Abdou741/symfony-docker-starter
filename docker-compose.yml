@@ -4,7 +4,7 @@ services:
   php:
     container_name: php
     build:
-      context: php
+      context: .docker/php
     networks:
       - web-app-bridge
       - proxy
